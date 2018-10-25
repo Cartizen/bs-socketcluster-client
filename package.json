@@ -1,0 +1,27 @@
+{
+  "name": "@cartizen/bs-socketcluster-client",
+  "version": "0.1.0",
+  "description": "ReasonML Bucklescript bindings for SocketCluster client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cartizen/bs-socketcluster-client.git"
+  },
+  "keywords": [
+    "ReasonML",
+    "Bucklescript",
+    "SocketCluster",
+    "Web",
+    "Sockets",
+    "Sockets"
+  ],
+  "author": "greg.johns@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cartizen/bs-socketcluster-client/issues"
+  },
+  "homepage": "https://github.com/Cartizen/bs-socketcluster-client#readme"
+}
